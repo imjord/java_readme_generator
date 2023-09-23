@@ -5,15 +5,17 @@ import com.example.CreateFile;
 import com.example.ReadMeData;
 import com.example.WriteFile;
 
+
 class Main {
+
     public static void main(String[] args) {
          // read template file
          ReadMeData data = new ReadMeData();
             CreateFile.readFile(data);
-            System.out.println(data.getTemplate());
+            System.out.println("imjord java readme generator");
         try (Scanner scanObj = new Scanner(System.in)) {
            
-            System.out.println("What is your github username?");
+            System.out.println("What is your github username?(Must be exact)");
             // get the users data
             String githubUsername = scanObj.nextLine(); 
             data.setUsername(githubUsername);

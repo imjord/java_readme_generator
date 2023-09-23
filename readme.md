@@ -4,15 +4,15 @@
 ![GitHub](https://img.shields.io/github/license/imjord/java_readme_generator?style=for-the-badge)
 
   <div align=\"center\">
-  <h3 align=\"center\">java readme gen</h3>
+  <h3 align=\"center\">Java ReadMe Generator</h3>
   <p align=\"center\">
   <br />
   <br />
-  <a href=\"https://github.com/{}/{}\">View Demo</a>
+  <a href=\"https://github.com/imjord/java_readme_generator\">View Demo</a>
    ·
-        <a href=\"https://github.com/{}/{}/issues\">Report Bug</a>
+        <a href=\"https://github.com/imjord/java_readme_generator/issues\">Report Bug</a>
         ·
-        <a href=\"https://github.com/{}/{}/issues\">Request Feature</a>
+        <a href=\"https://github.com/imjord/java_readme_generator/issues\">Request Feature</a>
       </p>
     </div>
 
@@ -48,7 +48,7 @@
     
     
     
-  A console command application to generate a mern stack template readme
+  A readme generator for a template for mern projects
     
     
     
@@ -60,7 +60,7 @@
     
     
     
-  java
+  Java
     
   <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
     
@@ -73,7 +73,7 @@
     
   ### Prerequisites
     
-  {PREREQUISITE}
+  Jre i assume
     
   ### Installation
     
@@ -101,7 +101,7 @@
   <!-- USAGE EXAMPLES -->
   ## Usage
     
-  none
+  None atm
   <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
     
     
@@ -109,7 +109,7 @@
    <!-- ROADMAP -->
    ## Roadmap
     
-  - not atm
+  - Not ATM
     
     
   See the [open issues](https://github.com/imjord/java_readme_generator/issues) for a full list of future proposed features (and known issues).
@@ -125,9 +125,9 @@
   Don't forget to give the project a star! Thanks again!
     
   1. Fork the Project
-  2. Create your Feature Branch (\\`git checkout -b feature/AmazingFeature\\`)
-  3. Commit your Changes (\\`git commit -m 'Add some AmazingFeature'\\`)
-  4. Push to the Branch (\\`git push origin feature/AmazingFeature\\`)
+  2. Create your Feature Branch (\`\``git checkout -b feature/AmazingFeature`\\)
+  3. Commit your Changes (\`\``git commit -m 'Add some AmazingFeature'`\\)
+  4. Push to the Branch (\`\``git push origin feature/AmazingFeature`\\)
   5. Open a Pull Request
     
    <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
@@ -137,7 +137,7 @@
    <!-- LICENSE -->
    ## License
     
-  none
+  None
     
    <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
     
@@ -148,6 +148,6 @@
     
   Just message me on github <3 imjord
     
-  Project Link: [https://github.com/{}/{}](https://github.com/imjord/java_readme_generator)
+  Project Link: [https://github.com/imjord/java_readme_generator](https://github.com/imjord/java_readme_generator)
     
    <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
