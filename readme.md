@@ -1,73 +1,10 @@
-<a name="readme-top"></a>
-
-![GitHub contributors](https://img.shields.io/github/contributors/imjord/java_readme_generator?color=%23454B1B&label=CONTRIBUTORS%20%3C3&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/imjord/java_readme_generator?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/imjord/java_readme_generator?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/imjord/java_readme_generator?style=for-the-badge)
-
-<div align="center">
-  <h3 align="center">Java ReadMe Generator</h3>
-  <p align="center">
-    <br />
-    <br />
-    <a href="https://github.com/imjord/java_readme_generator">View Demo</a>
-    ·
-    <a href="https://github.com/imjord/java_readme_generator/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/imjord/java_readme_generator/issues">Request Feature</a>
-  </p>
-</div>
-
-<!-- TABLE OF CONTENT -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <!-- Add more sections here as needed -->
-  </ol>
-</details>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-A java console application to generate a readme template
-
-### Built With
-
-Java
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-If you would like to clone the repo, follow these steps.
-
-### Prerequisites
-
-JRE
-
-### Installation
-
 ![GitHub contributors](https://img.shields.io/github/contributors/imjord/java_readme_generator?color=%23454B1B&label=CONTRIBUTORS%20%3C3&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/imjord/java_readme_generator?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/imjord/java_readme_generator?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/imjord/java_readme_generator?style=for-the-badge)
 
   <div align=\"center\">
-  <h3 align=\"center\">Java ReadMe Generator</h3>
+  <h3 align=\"center\">java readme gen</h3>
   <p align=\"center\">
   <br />
   <br />
@@ -111,7 +48,7 @@ JRE
     
     
     
-  A java console application to generate a readme template
+  A console command application to generate a mern stack template readme
     
     
     
@@ -123,7 +60,7 @@ JRE
     
     
     
-  Java
+  java
     
   <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
     
@@ -164,7 +101,7 @@ JRE
   <!-- USAGE EXAMPLES -->
   ## Usage
     
-  Not ATM
+  none
   <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
     
     
@@ -172,7 +109,7 @@ JRE
    <!-- ROADMAP -->
    ## Roadmap
     
-  - Make a gui for all my readme generators / more general template for most projects
+  - not atm
     
     
   See the [open issues](https://github.com/imjord/java_readme_generator/issues) for a full list of future proposed features (and known issues).
@@ -200,7 +137,7 @@ JRE
    <!-- LICENSE -->
    ## License
     
-  None
+  none
     
    <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
     
