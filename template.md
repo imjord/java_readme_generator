@@ -8,11 +8,11 @@
   <p align=\"center\">
   <br />
   <br />
-  <a href=\"https://github.com/{}/{}\">View Demo</a>
+  <a href=\"https://github.com/{GITHUB_USERNAME}/{REPO_NAME}\">View Demo</a>
    ·
-        <a href=\"https://github.com/{}/{}/issues\">Report Bug</a>
+        <a href=\"https://github.com/{GITHUB_USERNAME}/{REPO_NAME}/issues\">Report Bug</a>
         ·
-        <a href=\"https://github.com/{}/{}/issues\">Request Feature</a>
+        <a href=\"https://github.com/{GITHUB_USERNAME}/{REPO_NAME}/issues\">Request Feature</a>
       </p>
     </div>
 
@@ -73,7 +73,7 @@
     
   ### Prerequisites
     
-  {PREREQUISITE}
+  {PREREQUISITES}
     
   ### Installation
     
@@ -125,9 +125,9 @@
   Don't forget to give the project a star! Thanks again!
     
   1. Fork the Project
-  2. Create your Feature Branch (\\`git checkout -b feature/AmazingFeature\\`)
-  3. Commit your Changes (\\`git commit -m 'Add some AmazingFeature'\\`)
-  4. Push to the Branch (\\`git push origin feature/AmazingFeature\\`)
+  2. Create your Feature Branch (\`\``git checkout -b feature/AmazingFeature`\\)
+  3. Commit your Changes (\`\``git commit -m 'Add some AmazingFeature'`\\)
+  4. Push to the Branch (\`\``git push origin feature/AmazingFeature`\\)
   5. Open a Pull Request
     
    <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
@@ -148,6 +148,6 @@
     
   Just message me on github <3 {GITHUB_USERNAME}
     
-  Project Link: [https://github.com/{}/{}](https://github.com/{GITHUB_USERNAME}/{REPO_NAME})
+  Project Link: [https://github.com/{GITHUB_USERNAME}/{REPO_NAME}](https://github.com/{GITHUB_USERNAME}/{REPO_NAME})
     
    <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
