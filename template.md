@@ -61,8 +61,6 @@ If you would like to clone the repo, follow these steps.
 
 ### Installation
 
-<a name=\"readme-top\"></a>
-
 ![GitHub contributors](https://img.shields.io/github/contributors/{GITHUB_USERNAME}/{REPO_NAME}?color=%23454B1B&label=CONTRIBUTORS%20%3C3&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/{GITHUB_USERNAME}/{REPO_NAME}?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/{GITHUB_USERNAME}/{REPO_NAME}?style=for-the-badge)

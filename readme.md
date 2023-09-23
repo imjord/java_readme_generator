@@ -1,20 +1,20 @@
 <a name="readme-top"></a>
 
-![GitHub contributors](https://img.shields.io/github/contributors/imjord/everyday_code_practice?color=%23454B1B&label=CONTRIBUTORS%20%3C3&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/imjord/everyday_code_practice?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/imjord/everyday_code_practice?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/imjord/everyday_code_practice?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/imjord/java_readme_generator?color=%23454B1B&label=CONTRIBUTORS%20%3C3&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/imjord/java_readme_generator?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/imjord/java_readme_generator?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/imjord/java_readme_generator?style=for-the-badge)
 
 <div align="center">
-  <h3 align="center">coding practice</h3>
+  <h3 align="center">Java ReadMe Generator</h3>
   <p align="center">
     <br />
     <br />
-    <a href="https://github.com/imjord/everyday_code_practice">View Demo</a>
+    <a href="https://github.com/imjord/java_readme_generator">View Demo</a>
     ·
-    <a href="https://github.com/imjord/everyday_code_practice/issues">Report Bug</a>
+    <a href="https://github.com/imjord/java_readme_generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/imjord/everyday_code_practice/issues">Request Feature</a>
+    <a href="https://github.com/imjord/java_readme_generator/issues">Request Feature</a>
   </p>
 </div>
 
@@ -43,11 +43,11 @@
 
 ## About The Project
 
-just practice for various coding excersises and languages
+A java console application to generate a readme template
 
 ### Built With
 
-{Java,Rust, Javascript so far}
+Java
 
 <!-- GETTING STARTED -->
 
@@ -57,19 +57,17 @@ If you would like to clone the repo, follow these steps.
 
 ### Prerequisites
 
-rust, jre, node
+JRE
 
 ### Installation
 
-<a name=\"readme-top\"></a>
-
-![GitHub contributors](https://img.shields.io/github/contributors/imjord/everyday_code_practice?color=%23454B1B&label=CONTRIBUTORS%20%3C3&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/imjord/everyday_code_practice?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/imjord/everyday_code_practice?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/imjord/everyday_code_practice?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/imjord/java_readme_generator?color=%23454B1B&label=CONTRIBUTORS%20%3C3&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/imjord/java_readme_generator?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/imjord/java_readme_generator?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/imjord/java_readme_generator?style=for-the-badge)
 
   <div align=\"center\">
-  <h3 align=\"center\">coding practice</h3>
+  <h3 align=\"center\">Java ReadMe Generator</h3>
   <p align=\"center\">
   <br />
   <br />
@@ -113,7 +111,7 @@ rust, jre, node
     
     
     
-  just practice for various coding excersises and languages
+  A java console application to generate a readme template
     
     
     
@@ -125,7 +123,7 @@ rust, jre, node
     
     
     
-  {Java,Rust, Javascript so far}
+  Java
     
   <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
     
@@ -144,7 +142,7 @@ rust, jre, node
     
   1. Clone the repo
         ```sh
-        git clone https://github.com/imjord/everyday_code_practice.git
+        git clone https://github.com/imjord/java_readme_generator.git
         ```
   2. Install NPM packages in both client and server folders
         ```sh
@@ -166,7 +164,7 @@ rust, jre, node
   <!-- USAGE EXAMPLES -->
   ## Usage
     
-  not atm
+  Not ATM
   <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
     
     
@@ -174,10 +172,10 @@ rust, jre, node
    <!-- ROADMAP -->
    ## Roadmap
     
-  - Just updating everyday hopefully
+  - Make a gui for all my readme generators / more general template for most projects
     
     
-  See the [open issues](https://github.com/imjord/everyday_code_practice/issues) for a full list of future proposed features (and known issues).
+  See the [open issues](https://github.com/imjord/java_readme_generator/issues) for a full list of future proposed features (and known issues).
     
    <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
     
@@ -202,7 +200,7 @@ rust, jre, node
    <!-- LICENSE -->
    ## License
     
-  nope
+  None
     
    <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
     
@@ -213,6 +211,6 @@ rust, jre, node
     
   Just message me on github <3 imjord
     
-  Project Link: [https://github.com/{}/{}](https://github.com/imjord/everyday_code_practice)
+  Project Link: [https://github.com/{}/{}](https://github.com/imjord/java_readme_generator)
     
    <p align=\"right\">(<a href=\"#readme-top\">back to top</a>)</p>
